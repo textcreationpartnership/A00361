@@ -35,11 +35,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A deuoute treatise vpon the Pater noster, made fyrst in latyn by the moost famous doctour mayster Er
+
+1. ¶Richarde Hyrde / vnto the moost studyous and vertuous yonge mayde Fraunces. S. sendeth gretynge and well to fare.
+
 #####Body#####
 
+1. ¶Here after folowethe seuyn peticions of the Pater noster / translated out of Latyn in to Englysshe.
+
+    _ ¶The fyrst peticion.
+
+    _ ¶ The seconde peticion.
+
+    _ ¶The thyrde peticion.
+
+    _ ¶The fourthe peticion.
+
+    _ ¶The fyfte peticion.
+
+    _ ¶The sixte peticion.
+
+    _ ¶The seuenth peticion.
+
 #####Back#####
-A deuoute treatise vpon the Pater noster, made fyrst in latyn by the moost famous doctour mayster Er
+¶Thus endeth thexposicion of the Pater noster. Imprinted at London in Fletestrete / in the house of ¶The Rote or myrroure of consolacyon and conforte.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
