@@ -35,29 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-¶A deuout treatise vpon the Pater noster / made fyrst in latyn by the moost famous doctour mayster E
-1. ¶Richarde Hyrde / vnto the moost studyous and vertuous yonge mayde Fraunces. S. sendeth gretynge and well to fare.
-
+A deuoute treatise vpon the Pater noster, made fyrst in latyn by the moost famous doctour mayster Er
 #####Body#####
 
-1. ¶Here after folowethe seuyn peticions of the Pater noster / translated out of Latyn in to Englysshe.
-
-    _ ¶The fyrst peticion.
-
-    _ ¶ The seconde peticion.
-
-    _ ¶The thyrde peticion.
-
-    _ ¶The fourthe peticion.
-
-    _ ¶The fyfte peticion.
-
-    _ ¶The sixte peticion.
-
-    _ ¶The seuenth peticion.
-
 #####Back#####
-¶Thus endeth thexposicion of the Pater noster. Imprinted at London in Fletestrete / in the house of ¶The Rote or myrroure of consolacyon and conforte.
+A deuoute treatise vpon the Pater noster, made fyrst in latyn by the moost famous doctour mayster Er
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -90,51 +72,44 @@ There are 13 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__back__|1||
-|2.|__body__|1||
-|3.|__closer__|1||
-|4.|__date__|1||
-|5.|__dateline__|1||
-|6.|__desc__|13||
-|7.|__div__|13| @__type__ (13) : title_page (1), illustration (2), introduction (1), text (1), petition (7), colophon (1)  •  @__n__ (7) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1)|
-|8.|__figure__|3||
-|9.|__front__|1||
-|10.|__g__|530| @__ref__ (530) : char:EOLhyphen (259), char:cmbAbbrStroke (206), char:EOLunhyphen (65)|
-|11.|__gap__|13| @__reason__ (13) : illegible (9), illegible: missing (1), illegible: under-inked (3)  •  @__extent__ (13) : 1 letter (10), 3 letters (1), 2 letters (2)|
-|12.|__head__|10||
-|13.|__hi__|85| @__rend__ (85) : sup (85)|
-|14.|__p__|15||
-|15.|__pb__|48| @__facs__ (48) : tcp:9815:1 (2), tcp:9815:2 (2), tcp:9815:3 (2), tcp:9815:4 (2), tcp:9815:5 (2), tcp:9815:6 (2), tcp:9815:7 (2), tcp:9815:8 (2), tcp:9815:9 (2), tcp:9815:10 (2), tcp:9815:11 (2), tcp:9815:12 (2), tcp:9815:13 (2), tcp:9815:14 (2), tcp:9815:15 (2), tcp:9815:16 (2), tcp:9815:17 (2), tcp:9815:18 (2), tcp:9815:19 (2), tcp:9815:20 (2), tcp:9815:21 (2), tcp:9815:22 (2), tcp:9815:23 (2), tcp:9815:24 (2)|
-|16.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|1.|__closer__|1||
+|2.|__date__|1||
+|3.|__dateline__|1||
+|4.|__desc__|13||
+|5.|__div__|13| @__type__ (13) : title_page (1), illustration (2), introduction (1), text (1), petition (7), colophon (1)  •  @__n__ (7) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1)|
+|6.|__figure__|3||
+|7.|__g__|530| @__ref__ (530) : char:EOLhyphen (259), char:cmbAbbrStroke (206), char:EOLunhyphen (65)|
+|8.|__gap__|13| @__reason__ (13) : illegible (9), illegible: missing (1), illegible: under-inked (3)  •  @__extent__ (13) : 1 letter (10), 3 letters (1), 2 letters (2)|
+|9.|__head__|10||
+|10.|__hi__|85| @__rend__ (85) : sup (85)|
+|11.|__p__|15||
+|12.|__pb__|48| @__facs__ (48) : tcp:9815:1 (2), tcp:9815:2 (2), tcp:9815:3 (2), tcp:9815:4 (2), tcp:9815:5 (2), tcp:9815:6 (2), tcp:9815:7 (2), tcp:9815:8 (2), tcp:9815:9 (2), tcp:9815:10 (2), tcp:9815:11 (2), tcp:9815:12 (2), tcp:9815:13 (2), tcp:9815:14 (2), tcp:9815:15 (2), tcp:9815:16 (2), tcp:9815:17 (2), tcp:9815:18 (2), tcp:9815:19 (2), tcp:9815:20 (2), tcp:9815:21 (2), tcp:9815:22 (2), tcp:9815:23 (2), tcp:9815:24 (2)|
+|13.|__seg__|2| @__rend__ (2) : decorInit (2)|
